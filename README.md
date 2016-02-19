@@ -1,7 +1,7 @@
 # json-help
    javascript functions for different json related operation which are not build in
 
-## methods:
+# methods
 
 var jsonHelp = require('json-help');
 
@@ -11,7 +11,7 @@ var jsonHelp = require('json-help');
 
  jsonHelp.merge({}, json1 , json2);
 
-```
+ ```
 
 - get all keys in json
 
@@ -19,7 +19,7 @@ var jsonHelp = require('json-help');
 
  jsonHelp.getKeys(jsonObj);
 
-```
+ ```
 
 - convert json to array
 
@@ -27,7 +27,7 @@ var jsonHelp = require('json-help');
 
  jsonHelp.toArray(jsonObj);
 
-```
+ ```
 
 - validate the json
 
@@ -35,4 +35,4 @@ var jsonHelp = require('json-help');
 
  jsonHelp.validate(jsonObj);
 
-```
+ ```
