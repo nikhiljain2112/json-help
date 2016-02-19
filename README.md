@@ -5,7 +5,7 @@
 
 var jsonHelp = require('json-help');
 
-- json merge -->> merges to json objects
+- json merge -- merges two json objects
 
  ```javascript
 
