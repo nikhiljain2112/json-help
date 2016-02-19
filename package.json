@@ -1,0 +1,27 @@
+{
+  "name": "json-help",
+  "version": "1.0.0",
+  "description": "utilities for diffrent json operations",
+  "main": "util.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhiljain2112/json-help.git"
+  },
+  "keywords": [
+    "json",
+    "merge",
+    "utils",
+    "util",
+    "utilities",
+    "help"
+  ],
+  "author": "nikhil jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhiljain2112/json-help/issues"
+  },
+  "homepage": "https://github.com/nikhiljain2112/json-help#readme"
+}
